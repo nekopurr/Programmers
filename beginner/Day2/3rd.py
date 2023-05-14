@@ -1,3 +1,5 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/120808
+
 def solution(numer1, denom1, numer2, denom2):
     denom_mul = denom1 * denom2
     numer1 *= denom2
