@@ -13,5 +13,3 @@ def solution(array):
         return -1
     else:
         return dict_max
-
-solution([0])
